@@ -1,0 +1,36 @@
+body {
+  background-color: #364620;
+}
+.rabbits, .squirrels, .cats, .kangaroos {
+  display: none;
+}
+h1 {
+  text-align: center;
+  color: #e7efdc;
+  font-family: 'Cherry Cream Soda', cursive;
+  font-size: 3em;
+  line-height: 2;
+}
+.animal img {
+  float: left;
+  margin: 10px;
+  border: 1px solid black;
+}
+p{
+  font-size: 18px;
+}
+div .animal {
+  background: #e7efdc;
+  padding: 15px;
+  height: 540px;
+  border-radius: 10px;
+}
+.row {
+  border-bottom: 2px solid #e7efdc;
+}
+.row img {
+  opacity: .7;
+}
+.row img:hover {
+  opacity: 1;
+}
