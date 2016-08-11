@@ -1,4 +1,4 @@
-# :sparkles: Animal Information Page
+# :rabbit2::seedling: Animal Information Page :cat::mouse:
 
 __Version 1.1.0: August 11, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Aimen Khakwani](http://aimenkhakwani.github.io)
