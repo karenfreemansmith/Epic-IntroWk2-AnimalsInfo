@@ -11,7 +11,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery
 *[Epicodus](http://epicodus.com) Intro to Programming Week 2 Pair Project with Aimen Khakwani: A webpage that shows information about the animal you select.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-Calculator)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-AnimalsInfo)
 * _OR_
 * Clone directory
 * Open index.html in your favorite browser
